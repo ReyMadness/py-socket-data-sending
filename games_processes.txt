@@ -1,0 +1,9 @@
+csgo.exe
+java.exe
+TslGame.exe
+GTA5.exe
+colonyclient.exe
+PCBS.exe
+Terraria.exe
+osu!.exe
+minecraft.exe
